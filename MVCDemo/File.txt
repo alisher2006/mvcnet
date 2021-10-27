@@ -1,0 +1,6 @@
+12
+23
+24
+35
+This is a text file
+
